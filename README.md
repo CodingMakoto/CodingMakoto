@@ -2,12 +2,12 @@
 **CodingMakoto/CodingMakoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## CodingMakoto
+## ⭐ About Me
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmakoto&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmakoto&show_icons=true&theme=one_dark_pro)
 
-# Languages
+### 🛠️ Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmakoto&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmakoto&layout=compact&theme=one_dark_pro)
 
 
