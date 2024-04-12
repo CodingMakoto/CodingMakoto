@@ -18,6 +18,6 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python, react, laravel"/><br>
+        <img src="https://skillicons.dev/icons?i=python,react,laravel"/><br>
     </a>
 </p>
