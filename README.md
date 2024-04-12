@@ -9,4 +9,5 @@
 
 ## 👾 Daily Dev
 
+![leaves](https://github.com/CodingMakoto/CodingMakoto/assets/89703992/b200b0fa-b65e-47b5-9f5e-353372b193aa)
 <a href="https://app.daily.dev/codingmakoto"><img src="https://api.daily.dev/devcards/v2/7Agtc9gyx01duaM0p7xke.png?type=wide&r=8x2" width="652" alt="CodingMakoto's Dev Card"/></a>
