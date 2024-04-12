@@ -4,7 +4,7 @@
 ![leavesbanner](https://github.com/CodingMakoto/CodingMakoto/assets/89703992/4982d01d-4335-4aa3-8350-78e45423027a)
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Welcome+to+the+creativity+hub+of+Makoto" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=80&duration=4000&pause=300&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1300&height=140&lines=Welcome+to+the+creativity+hub+of+Makoto" width="50%"/>
 
 
 ## ⭐ About Makoto
