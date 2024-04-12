@@ -18,6 +18,8 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,react,laravel"/><br>
+        <img src="https://skillicons.dev/icons?i=python"/> Raijin Discord Bot<br>
+        <img src="https://skillicons.dev/icons?i=react"/> Raijin Panel<br>
+        <img src="https://skillicons.dev/icons?i=laravel"/> CodingMakoto's Portfolio<br>
     </a>
 </p>
