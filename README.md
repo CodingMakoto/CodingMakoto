@@ -4,10 +4,10 @@
 
 ## ⭐ About Makoto
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmakoto&show_icons=true&theme=one_dark_pro)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmakoto&show_icons=true&theme=apprentice)
 
 ### 🚀 What i'm using
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmakoto&layout=compact&theme=one_dark_pro)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codingmakoto&layout=compact&theme=apprentice)
 
 
