@@ -14,6 +14,8 @@
 
 ## ⌨️ What do i like/use ?
 
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,mysql,react,laravel"/>
-</a>
+<p align="center">
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,mysql,react,laravel"/>
+    </a>
+<p/>
