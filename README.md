@@ -16,6 +16,6 @@
 
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,c,mysql,react,laravel,jenkins,git,apple"/>
+        <img src="https://skillicons.dev/icons?i=python,c,mysql,react,tailwind,jenkins,git,apple"/>
     </a>
 <p/>
